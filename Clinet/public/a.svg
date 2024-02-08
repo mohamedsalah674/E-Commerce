@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="1440" height="560" preserveAspectRatio="none" viewBox="0 0 1440 560"><g mask="url(&quot;#SvgjsMask1032&quot;)" fill="none"><rect width="1440" height="560" x="0" y="0" fill="#0e2a47"></rect><path d="M299.3819418934237 503.50373274524674L190.57210764017356 390.6127426430811 150.49920521678524 521.6853004648804z" fill="rgba(28, 83, 142, 0.4)" className="triangle-float2"></path><path d="M737.6749912887028 279.59501287036596L838.3596861610711 163.77052079850645 621.8504992168433 178.91031799799777z" fill="rgba(28, 83, 142, 0.4)" className="triangle-float3"></path><path d="M191.65896401656795 418.09974582144025L133.22204075240032 515.1455028494387 232.18777533877213 518.6014624545109z" fill="rgba(28, 83, 142, 0.4)" className="triangle-float2"></path><path d="M4.95066687455871 93.81642261081826L61.434467341964556 156.54803829503422 127.28999063458556 40.45652975181747z" fill="rgba(28, 83, 142, 0.4)" className="triangle-float3"></path><path d="M128.85793709475374-3.291630105643918L66.44005536649074-61.497246462005464 10.340571696079934 61.23238430856982z" fill="rgba(28, 83, 142, 0.4)" className="triangle-float2"></path><path d="M839.5769142153245 218.0714894063804L955.8105724969445 312.19565000268096 933.7010748116251 101.83783112476034z" fill="rgba(28, 83, 142, 0.4)" className="triangle-float3"></path><path d="M516.934,347.477C544.003,347.242,572.112,340.93,586.82,318.204C602.72,293.636,604.106,261.308,588.875,236.32C574.175,212.203,545.177,203.773,516.934,203.546C488.196,203.315,458.13,210.737,442.96,235.146C427.06,260.731,428.342,294.28,444.909,319.438C460.096,342.5,489.322,347.717,516.934,347.477" fill="rgba(28, 83, 142, 0.4)" className="triangle-float1"></path><path d="M1242.966,305.301C1300.738,308.832,1368.909,312.072,1399.305,262.816C1430.506,212.256,1401.355,149.684,1370.226,99.08C1341.004,51.576,1298.73,9.585,1242.966,8.666C1185.848,7.724,1135.12,44.362,1108.224,94.76C1082.824,142.356,1087.477,200.096,1116.558,245.536C1143.486,287.612,1193.104,302.254,1242.966,305.301" fill="rgba(28, 83, 142, 0.4)" className="triangle-float2"></path><path d="M608.3450775028779 497.81155572413536L713.91050344186 648.8808282161095 784.5347195229517 504.07972667652103z" fill="rgba(28, 83, 142, 0.4)" className="triangle-float1"></path><path d="M333.9638661219586 252.8675487093612L390.64682895696285 292.557386574492 421.84010433715684 187.68802338942024z" fill="rgba(28, 83, 142, 0.4)" className="triangle-float3"></path><path d="M506.674,659.173C557.566,657.413,599.894,626.74,627.905,584.214C659.8,535.791,689.884,475.399,660.739,425.272C631.676,375.286,564.419,372.748,506.674,375.706C455.298,378.338,405.096,396.216,377.718,439.769C348.521,486.215,342.198,545.835,369.997,593.132C397.477,639.885,452.475,661.047,506.674,659.173" fill="rgba(28, 83, 142, 0.4)" className="triangle-float1"></path></g><defs><mask id="SvgjsMask1032"><rect width="1440" height="560" fill="#ffffff"></rect></mask><style>
+                @keyframes float1 {
+                    0%{transform: translate(0, 0)}
+                    50%{transform: translate(-10px, 0)}
+                    100%{transform: translate(0, 0)}
+                }
+
+                .triangle-float1 {
+                    animation: float1 5s infinite;
+                }
+
+                @keyframes float2 {
+                    0%{transform: translate(0, 0)}
+                    50%{transform: translate(-5px, -5px)}
+                    100%{transform: translate(0, 0)}
+                }
+
+                .triangle-float2 {
+                    animation: float2 4s infinite;
+                }
+
+                @keyframes float3 {
+                    0%{transform: translate(0, 0)}
+                    50%{transform: translate(0, -10px)}
+                    100%{transform: translate(0, 0)}
+                }
+
+                .triangle-float3 {
+                    animation: float3 6s infinite;
+                }
+            </style></defs></svg>
