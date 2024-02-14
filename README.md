@@ -1,5 +1,3 @@
-# E-Commerce
-This is a repo to publish an E-Commerce project
 # E-Commerce Platform with Node.js, Next.js, React, and MongoDB
 
 A comprehensive full-stack e-commerce implementation using Node.js, JavaScript, Next.js, React, and MongoDB.
